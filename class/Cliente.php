@@ -23,7 +23,9 @@ class Cliente {
 
    }
 
-   
+   pucblic function comprar(){
+      resturn null;
+   }
 
   
 } 

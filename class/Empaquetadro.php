@@ -23,6 +23,9 @@ class Empaquetador {
       $this->password = $password;
 
    }
+pucblic function empaquetarPro(){
+      resturn null;
+   }
 
 
   

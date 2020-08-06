@@ -23,16 +23,9 @@ class Farmaceutico {
 
    }
 
-   function UsuarioGenerar()
-   {
-       return $this->usuario;
-       
-   }  
-    function PasswordGenerar()
-   {
-       
-       return $this->password;
-   }  
+   pucblic function vender(){
+      resturn null;
+   }
 
   
 } 
